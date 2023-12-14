@@ -1,0 +1,12 @@
+samsung-com.112.2o7.net
+widgets.pinterest.com
+api.bugsnag.com
+app.bugsnag.com
+browser.sentry-cdn.com
+app.getsentry.com
+realtime.luckyorange.com
+tools.mouseflow.com
+cdn-test.mouseflow.com
+claritybt.freshmarketer.com
+fwtracks.freshmarketer.com
+events.hotjar.io
